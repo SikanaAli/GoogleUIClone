@@ -1,4 +1,4 @@
-# This Marks the Begining of My Front End Carea Path
+# This Marks the Begining of My Front End Career Path
 
 ## This is basic html and css to make a google search ui clone
 
